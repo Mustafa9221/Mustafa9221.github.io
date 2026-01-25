@@ -85276,7 +85276,7 @@ if(!e.EW(i)){s=1
 break}m.af(new A.alw(m))
 p=4
 l="TEMP_DISABLED"
-e=A.fC("https://wizard9221.pythonanywhere.com/api",0,null)
+e=A.fC("https://wizard9221.pythonanywhere.com/api/contact",0,null)
 j=t.N
 h=A.az(["Content-Type","application/json"],j,j)
 s=7
